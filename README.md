@@ -1,4 +1,4 @@
-# [SolutionsXHackathon]
+# [SolutionsXHackathon] - Organized by - [Bank of the West]
 ## Virtual Bank Assistant- EVE
 A banking friend that uses voice commands to perform banking operations
 
